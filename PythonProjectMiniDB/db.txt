@@ -1,0 +1,23 @@
+hemn ahmed:
+Database&33
+AI&22
+Security&44
+Web programming&55
+Graphics&66
+Computation&77
+
+
+
+
+
+
+
+
+soran:
+Database&88
+AI&97
+Security&67
+Web programming&55
+Graphics&45
+Computation&67
+
